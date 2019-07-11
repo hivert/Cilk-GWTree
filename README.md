@@ -1,2 +1,2 @@
 # Cilk-GWTree
-A primite Galton-Watson tree implementation using cilk
+A primitive Galton-Watson tree implementation using cilk
